@@ -80,7 +80,7 @@
 .image-frame {
     width: 380px;
     height: 380px;
-    background-image: Sayan image.jpeg ;
+    background-image: url(../images/Sayan image.jpeg);
     background-position: center;
     background-size: cover;
     border: 8px solid #FFFFFF;
